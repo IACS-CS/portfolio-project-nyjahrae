@@ -13,9 +13,13 @@ body {
   padding: 0;
   margin: 0;
   box-sizing: border-box;
+  background-image:url( 'component.webp');
+  background-size: contain;
 }
 
 .hero {
+  background-image:url( 'component.webp');
+  background-size: contain;
   box-sizing: border-box;
   /* Full screen hero section */
   width: 100%;
